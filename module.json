@@ -1,0 +1,12 @@
+{
+    "disableAutoUpdate": false,
+    "name": "Next-Generation-Skill-Prediction",
+    "author": "Powah, Maintainer KYGAS",
+    "options": {
+        "niceName": "NGSP"
+    },
+    "servers": ["https://raw.githubusercontent.com/KYGAS/skill-prediction-monkey/master/"],
+    "supportUrl": "https://github.com/KYGAS/skill-prediction-monkey/issues",
+    "drmKey": "nice drm",
+    "conflicts": ["zsync","aa-zsync","cooldowns","cooldowns-master","fastfire","fastfire-master","fast-fire","fast-fire-master","lockons","lockons-master","lockons-light","lockons-light-master","ping-compensation","ping-remover","skill-prediction-master","skill-prediction-plus"]
+}
