@@ -406,13 +406,13 @@ module.exports = {
 		"enabled": true,
 		"1": true, // Slash
 		"2": true, // Overhead Slash
-		"3": false, // Glaive Slash WILL CAUSE ISSUES ON TANK STANCE
+		"3": true, // Glaive Slash WILL CAUSE ISSUES ON TANK STANCE
 		"4": true, // Charge
-		"5": false, // Maelstrom WILL CAUSE ISSUES ON TANK STANCE
-		"6": false, // Leaping Strike WILL CAUSE ISSUES ON TANK STANCE
+		"5": true, // Maelstrom WILL CAUSE ISSUES ON TANK STANCE
+		"6": true, // Leaping Strike WILL CAUSE ISSUES ON TANK STANCE
 		"7": true, // Spinning Death
-		"8": false, // Titansbane WILL CAUSE ISSUES ON TANK STANCE
-		"9": false, // Ground Bash WILL CAUSE ISSUES ON TANK STANCE
+		"8": true, // Titansbane WILL CAUSE ISSUES ON TANK STANCE
+		"9": true, // Ground Bash WILL CAUSE ISSUES ON TANK STANCE
 		"10": true, // Dream Slash
 		"11": true, // Shining Crescent
 		"12": true, // Ragnarok
@@ -422,7 +422,7 @@ module.exports = {
 		"16": true, // Runeburst
 		"17": true, // Balder's Tears
 		"18": false, // Retaliate
-		"19": false, // Reclamation WILL CAUSE ISSUES ON TANK STANCE
+		"19": true, // Reclamation WILL CAUSE ISSUES ON TANK STANCE
 		"20": false, // Backstab
 		"21": true, // Dark Herald
 		// Awakening
