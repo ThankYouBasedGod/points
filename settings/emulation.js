@@ -129,7 +129,7 @@ module.exports = {
 		"16": true, // Fearsome Shout / Normie Odium Cry (Unleash)
 		"18": true, // Lethal Strike
 		"19": true, // Triumphant Shout
-		"20": false, // Inescapable Doom WILL CAUSE BUGS ON TANK MODE IF ENABLED
+		"20": true, // Inescapable Doom
 		"21": true, // Bloodlust
 		"24": true, // Evasive Smash
 		"25": true, // Raze
