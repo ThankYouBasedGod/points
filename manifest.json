@@ -33,7 +33,7 @@
         "lib/submodules/jitter.js": "30625d55391abc8dde64605d6bac84f10620f5558e2d1258d6a796ef4344a139",
         "lib/submodules/notifications.js": "278ccb66165932ac92f23273e7b27ca172b73ee280ed3570fee2d0561d4e97ba",
         "lib/submodules/ping.js": "2eb4cfec23d3b7d749c1f4a1098526275a93a162046cbd3315842aa2693a07c1",
-        "lib/submodules/player.js": "1d1212ff698646e7f0227793a2878e8647beb918242b3579e1faaf9f62f6aae1",
+        "lib/submodules/player.js": "B3EAA816D4992A00F2555BC3ABE0A6ADA1008A03A9ED166918F5CB1E3E8C831F",
         "lib/utils.js": "001754d2beb65aab862c2d2335397fc036bb5fcc57da71bc150af8b41e2f8071",
         "module.json": "629B9659F53ADD740905F0401FC0980891C16BCA473A051F17104D229585986E",
         "node_modules/compare-versions/CHANGELOG.md": "3831ea3086b3a80ecdf988f68c27fd699997b5c90c8ef92d1c7c13dc4112d23a",
