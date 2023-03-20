@@ -18,7 +18,7 @@
 	"debugLoc": false,
 	"debugPolishing": false,
 	"debugTalents": false,
-	"defaultPingValue": 25,
+	"defaultPingValue": 1,
 	"enabled": true,
 	"fastCastBlockCalibrationType": "jitter",
 	"fastCastSkillsCalibrationTime": 6,
@@ -42,7 +42,7 @@
 	"shortcutUIPing": "",
 	"shortcutUISettings": "",
 	"skillRetryCount": 2,
-	"skillRetryMs": 25,
+	"skillRetryMs": 2,
 	"useTestFeatures": false,
 	"version": "10.43.0"
 }
